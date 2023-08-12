@@ -34,16 +34,7 @@ const AllPlayers = () => {
           <h1 className="flex items-center justify-center text-center px-5 text-3xl font-bold lg:text-5xl text-white">
             Puppy Bowl
           </h1>
-          <p className="my-8 text-white">
-            This application is powered by{" "}
-            <a
-              href="https://fsa-puppy-bowl.herokuapp.com/api/2302-ACC-PT-WEB-PT-C/players"
-              className="text-indigo-600 underline active:text-orange-400"
-            >
-              The Player Api
-            </a>
-          </p>
-
+          
           <form
             className="max-w-xl mx-auto"
             autoComplete="off"
